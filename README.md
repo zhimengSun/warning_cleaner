@@ -1,10 +1,10 @@
-AwesomeFormAttributes
+WarningCleaner
 =====
 
 
 install
 ----------
-  gem install awesome_form_attributes
+  gem install warning_cleaner
 
 
 
